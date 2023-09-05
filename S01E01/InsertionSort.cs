@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace AlgoritmsAndDataStructures.S01E01
 {
+    
+    // O(n^2)
     internal class InsertionSort
     {
         static void InsertionSortUp(int[] array)
